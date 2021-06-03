@@ -183,6 +183,15 @@ Have mutual purpose.
 [More…](doc/mutual/index.md)
 
 
+### For focus
+
+Focus is limited so budget it wisely.
+
+Decide on team indicators that mean "do not disturb" then respect them.
+
+[More…](doc/focus/index.md)
+
+
 ### For team success
 
 <!-- N.b. these come from Google -->
@@ -197,14 +206,6 @@ Impact: our work is purposeful and positively impacts the greater good.
 
 Psychological safety: everyone is safe to take risks, voice opinions, and ask questions.
 
-
-### For focus
-
-Try not to distract your teammates.
-
-If someone is wearing headphones, then do not disturb them unless there is an emergency.
-
-Designate an office area for louder/bigger work, and an office area for quieter/smaller work.
 
 
 ### For communications
